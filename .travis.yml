@@ -27,4 +27,4 @@ branches:
     - master                                # 此处为源文件所在的仓库分支，默认master
 env:
  global:
-   - GH_REF: git@github.com:wosniuxx/wosniuxx.github.io.git       # 此处为静态文件仓库，也就是你设定GitHub Pages的仓库地址
+   - GH_REF: git@github.com:wosniuxx/dblog.git       # 此处为静态文件仓库，也就是你设定GitHub Pages的仓库地址
