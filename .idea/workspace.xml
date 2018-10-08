@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6be4eb66-b201-4ec4-910b-a7616d67643f" name="Default" comment="样式调整">
-      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+    <list default="true" id="6be4eb66-b201-4ec4-910b-a7616d67643f" name="Default" comment="样式调整3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,31 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="95" column="3" selection-start-line="95" selection-start-column="3" selection-end-line="95" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="《深入理解JVM虚拟机》内存.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zh-Hans.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/languages/zh-Hans.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="245">
+              <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -63,6 +47,7 @@
       <find>archive</find>
       <find>scheme</find>
       <find>language</find>
+      <find>search</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -73,11 +58,11 @@
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/source/_posts/Test.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/source/about/index.md" />
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -148,21 +133,6 @@
               <item name="dblog" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="next" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dblog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="next" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dblog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="next" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +226,7 @@
       <workItem from="1536320362247" duration="684000" />
       <workItem from="1537149140245" duration="70000" />
       <workItem from="1538899115918" duration="2289000" />
-      <workItem from="1538971702717" duration="749000" />
+      <workItem from="1538971702717" duration="1632000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1535975620737</created>
@@ -293,11 +263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538964272800</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="样式调整">
+      <created>1538972529069</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538972529069</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8072000" />
+    <option name="totallyTimeSpent" value="8955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-617" width="2560" height="1417" extended-state="6" />
@@ -308,12 +285,12 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003987" side_tool="true" weight="0.32948422" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50079745" side_tool="true" weight="0.33718246" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49960127" visible="true" weight="0.33718246" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49920255" visible="true" weight="0.33718246" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1323764" />
@@ -344,7 +321,8 @@
     <MESSAGE value="test3" />
     <MESSAGE value="提交JVM" />
     <MESSAGE value="样式调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="样式调整" />
+    <MESSAGE value="样式调整3" />
+    <option name="LAST_COMMIT_MESSAGE" value="样式调整3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -426,25 +404,8 @@
         <state relative-caret-position="-175" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/source/images/avatar.gif">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -474,10 +435,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/《深入理解JVM虚拟机》内存.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="95" column="3" selection-start-line="95" selection-start-column="3" selection-end-line="95" selection-end-column="3" />
+        <state relative-caret-position="245">
+          <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
         </state>
       </provider>
     </entry>
