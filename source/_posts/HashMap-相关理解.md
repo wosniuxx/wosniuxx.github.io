@@ -18,7 +18,7 @@ HashMap是基于hashing原理，使用put(),get()存储和读取对象，当使�
 hashCode碰撞解决办法：
 开放地址法、拉链法、再次计算哈希值
 
-<!-- more -->
+< !--more--> 
 
 # equals()及hashCode()的应用，已经在HashMap中的重要性
 hashCode()即比较hashCode的值， equals()比较的是hashCode及对象值；
