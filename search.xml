@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于团队建设中的代码一致性思考]]></title>
+    <url>%2F2019%2F10%2F09%2F%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E4%BB%A3%E7%A0%81%E4%B8%80%E8%87%B4%E6%80%A7%E6%80%9D%E8%80%83%2F</url>
+    <content type="text"><![CDATA[关于团队建设中的代码一致性思考前言换工作之后，对于现有的工作模式和习惯有些思考。在开发过程中，是以效率为第一生产力。于个人开发而言，熟悉简单方便是最重要的。但是对于团队（5人及以上）而言，私以为规范是提升团队效率的不二法门。 规范内容 代码风格 工具选择 快捷键（非必须要求） 代码风格Java自创建以来，各种写法一直层出不穷。较为著名的有“左括号是否换行活省略”，或是“代码tab及空格缩进”等带来的诸多问题。这种风格其实个人并不喜欢，自己在写代码过程中，更加倾向于Golang或python等强规范语言，以代码规范来保证编译运行成功，从而保证了代码风格统一。 行业翘楚已经对Java做出了行文规范，建议参考使用。 阿里巴巴Java开发手册 Google-Java-Format 工具选择工具选择还是依据团队习惯最好，当使用他人机器进行代码调试时，相同的工具可以减少不必要的学习成本，提高沟通效率 IDE (Intellij IDEA / eclipse / MyEclipse) SQL (DataGrip / Navicat) Content 包括txt, markdown, json等 （sublime text / vscode） Terminal (Terminal / Item2) 快捷键快捷键是调试代码的重要组成部分，直接决定的你是否可以使用他人机器迅速解决问题，或者在演示途中减少不必要的麻烦。但是快捷键没人习惯均不相同，无法做强制要求，只能是提出一些常用快捷键，供大家日常参考。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[redis]]></title>
     <url>%2F2019%2F07%2F27%2Fredis%2F</url>
     <content type="text"><![CDATA[redis 数据结构redis 数据结构底层实现redis 集群搭建redis 项目中实际使用场景redis 淘汰策略redis 过期策略redis 速度快的原因redis 可以用java实现吗？redis 缓存击穿 / 缓存穿透redis 缓存雪崩redis 热点数据redis 性能瓶颈redis memcahce 区别与相似。技术如何选型]]></content>
